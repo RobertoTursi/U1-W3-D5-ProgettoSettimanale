@@ -532,7 +532,7 @@ sumAllTheYears(movies)
   Scrivi una funzione chiamata "searchByTitle" che riceve una stringa come parametro e ritorna i film 
   nell'array "movies" fornito che la contengono nel titolo.
 */
-/*
+
 const searchByTitle = (str) => {
   let newMoviesArray = []
   movies.forEach(movie => {
@@ -544,7 +544,7 @@ const searchByTitle = (str) => {
 }
 
 searchByTitle("Rings")
-*/
+
 
 /* ESERCIZIO 18
   Scrivi una funzione chiamata "searchAndDivide" che riceve una stringa come parametro e ritorna un oggetto
